@@ -60,7 +60,7 @@ for db_id in db_list:
     # Save data
     if zip_file == '0':
         #Save CSV
-        filename = 'symbiota_data.csv'
+        filename = db + '-symbiota_data.csv'
         with open(filename, 'w') as data_file:
             data_file.write(r.text)
         print(f'File {filename} saved.')
