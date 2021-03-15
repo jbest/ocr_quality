@@ -22,7 +22,8 @@ for d in dir_list:
     print(d)
     dataset_directory = d.name
     # get dataset identifier
-    dataset_id = dataset_directory.split('-')[0]
+    #dataset_id = dataset_directory.split('-')[0] #changed directory name convention
+    dataset_id = dataset_directory
     print(dataset_id)
     occurrences_path = d.joinpath('occurrences.csv')
     images_path = d.joinpath('images.csv')
