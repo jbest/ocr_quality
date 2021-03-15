@@ -47,10 +47,21 @@ df_occurrences_with_images = df_occurrences[df_occurrences['id'].isin(df_images[
 print(df_occurrences_with_images.shape)
 
 # Get sample from each collection dataset
-df_occurrence_sample = df_occurrences_with_images.groupby('dataset_id').sample(n=sample_size, random_state=random_state)
+df_occurrences_sample = df_occurrences_with_images.groupby('dataset_id').sample(n=sample_size, random_state=random_state)
 
+# Get image records corresponding to occurrence sample
+df_images_sample = df_images[df_images['coreid'].isin(df_occurrences_sample['id'])]
+print(df_images_sample.shape)
+
+#dup_images = df_images_sample.duplicated(subset='coreid')
+#print(dup_images.sum())
+
+df_occurrences_sample.to_csv('occurrences_sample.csv', index=False)
+df_images_sample.to_csv('images_sample.csv', index=False)
+
+"""
 # get URLs of images from each sample
-for i, row in df_occurrence_sample.iterrows():
+for i, row in df_occurrences_sample.iterrows():
     occurrence_id = row['id']
     catalog_number = row['catalogNumber']
     image_record = df_images.loc[df_images['coreid'] == occurrence_id]
@@ -62,3 +73,4 @@ for i, row in df_occurrence_sample.iterrows():
     if response.status_code == 200:
         with open(file_name, 'wb') as f:
             f.write(response.content)
+"""
