@@ -1,0 +1,42 @@
+2
+3
+12
+6
+8
+13
+METRIC 1
+14
+11
+2
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO. 001532
+6
+Pinaceae
+Family:
+Genus-species:
+Cynressus Arizonica
+Common nane :
+1A rizona cypress"
+Date of collection:
+2-21-65
+State:
+Texas
+Region:
+Tavlor County, Buffalo Cap, cemetary 2 mi. W. of B. Gap
+Habitat:
+cemetary
+IMAGED
+Abundance: cultivated
+20 NOV 2020
+Smell: sprucy
+Color before pressing: green
+sandy loam
+Soil:
+Collector
+Robert Patton
+Abilene Christian University
+ACUO000029
+24ColorCard
+TM
+CameraTrax.com

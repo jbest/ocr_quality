@@ -1,0 +1,39 @@
+2
+3
+5
+12
+| 11
+101
+6 ||
+21
+METRIC 1
+14
+13
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+003144
+NO.
+ļ Dee 1990
+WM. F. MAHLER
+ABILENE CHRISTIAN
+COLLECE HER AR
+AYLOR
+83
+OBG
+Nov. 17, 1965
+DATE
+Limestone
+Bluff
+Plants
+Beneath a Waterfall
+IMAGED
+MM
+20 NOV 2020
+AME Venus-Hair-Fern
+ENTTEIO NAMAdinatum Capillus-Veneri
+000
+Abilene Christian University
+ACU0000002
+24ColorCard
+TM
+CameraTrax.com

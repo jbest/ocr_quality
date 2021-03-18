@@ -1,0 +1,40 @@
+ES
+3
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+4343
+NO.
+MM
+CM 1
+3
+4|
+5
+6
+81
+|6
+10
+11
+12
+13
+14
+HONI
+Herbarium of
+No.
+Technical Name Andropogon hallii
+Common Name Sand bluestem
+Family
+Gramineae T-Androgoneae
+Lacality
+Knox City, TX
+Date Sept. 9, 1993
+Altitude
+Habitat Test plot
+Collected by
+Scott Crockett
+IMAGED
+Identified by
+20 ΝOV 2020
+Abilene Christian University
+ACU0000076
+24ColorCard
+Camera

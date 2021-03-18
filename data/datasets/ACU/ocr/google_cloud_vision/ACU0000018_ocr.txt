@@ -1,0 +1,42 @@
+2
+3
+6.
+6 |
+8
+9 |
+21
+13
+METRIC 1
+14
+12
+5
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+0U2225
+NO.
+Scientific Name: Pinaceae:
+Pinus palustris
+Common Name: Longleaf Pine
+Location:
+East Texas, Lake Lydia, 5 mi. s.e. of Quitman
+Region:
+Soil:
+sandy
+Habitat:
+ine forest
+Abundance: frequent
+Color before pressing:
+green
+Date:
+2-14-65
+IMAGED
+Collector:
+Barbara Bowles
+20 NOV 2020
+Reference:
+Abilene Christian University
+ACUO000018
+24ColorCard
+TM
+CameraTrax.com
+5

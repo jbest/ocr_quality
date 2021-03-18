@@ -1,0 +1,37 @@
+2
+3
+5
+6
+13
+14
+6 |
+31
+11
+METRIC 1
+12
+CURISTIAN COLLEGE
+HERBARIUM
+nd
+NO.
+001818
+HERBARIUM OF ABILENE CHRISTIAN COLLEGE
+ABILENE,
+ΤΕΧAS
+COUNTY: Jones, County
+DATE: 5-15-66
+IMAGED
+HABITAT: Rocky hilsides
+20 NOV 2020
+COMMENTS: Found at new ACC farm
+COMMON NAME: Mountain Cedar
+SCIENTIFIC NAME: Juniperus mexicana
+Abilene Christian University
+COLLECTOR:
+Robert Read
+FAMILY NUMBER:
+Cupressaceae
+6.
+ACUO000035
+24ColorCard
+TM
+CameraTrax.com

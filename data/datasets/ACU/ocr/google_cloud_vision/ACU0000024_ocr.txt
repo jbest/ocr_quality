@@ -1,0 +1,47 @@
+2
+3
+12
+101
+6
+8
+14
+13
+11
+METRIC 1
+2
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+Ou1478
+NO.
+4
+Family:
+Pinaceae
+Genus-species:
+Chamaecyparis thyoides
+Common u ame :
+11.Thite cedar"
+Date of collection:
+2-1/-65
+State:
+Texas
+Region:
+Ouitman, East Texas
+Habitat:
+deciduous forest
+Abundance:
+IMAGED
+common
+Smell:
+cedar
+20 NOV 2020
+Color before pressing:
+green
+Soil:
+hlackland prairie soil
+Barbara Bowles
+Collector
+Abilene Christian University
+ACU0000024
+24ColorCard
+TM
+CameraTrax.com

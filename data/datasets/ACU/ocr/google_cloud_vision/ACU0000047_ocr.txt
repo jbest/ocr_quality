@@ -1,0 +1,47 @@
+2
+3.
+6
+3.
+11
+METRIC 1
+14
+2
+13
+12
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+O01596
+NO.
+1.
+Ephedraceae
+Family:
+Genus-species:
+Ephedra antisyphilitica
+Common name:
+"Erect Ephedra"
+Date of coliection: 2-21-65
+State:
+Техas
+Central West Texas, Taylor County, 1 mi. N. Buffalo Gap
+city limits, off highway along fence row
+Fence row along highway
+Common
+Region:
+IMAGED
+Habitat:
+Abundance :
+20 NOV 2020
+Smell:
+None
+Color before pressing:
+grey-green
+Cravel-rock soil
+Barbara Bowles
+Soil:
+Collector
+Abilene Christian University
+ACU0000047
+24ColorCard
+TM
+CameraTrax.com
+5

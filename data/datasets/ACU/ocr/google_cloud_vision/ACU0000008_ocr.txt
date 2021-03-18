@@ -1,0 +1,34 @@
+2
+3.
+| 11
+12
+6 |
+9.
+21
+13
+METRIC 1
+14
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+003121
+HERBARIUM OF ABILENE CHRISTIAN COLLEGE
+ABILENE, TEXAS
+COUNTY OF COLLECTION: Wood
+DA TE: Nov. 25, 1965
+HABITAT: Hardwood forest floor
+IMAGED
+COMMENTS: Reproductive stalk visible
+above foliage of forest floor
+20 NOV 2020
+CO MMON NAME: Grape fern
+unn
+SCIENTIFIC NAME: Botrychium obliqum
+COLLECTOR: Robert F. Patton
+Abilene Christian University
+FAMILY NUMBER:
+ACUO000008
+24ColorCard
+TM
+CameraTrax.com
+5

@@ -1,0 +1,44 @@
+2
+3.
+5
+| 11
+12
+6 |
+| 10
+8 |
+14
+13
+9 |
+21
+METRIC 1
+5
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+003078
+aran
+AN
+ABILENE CHRISTIAN
+CCLLEGE HERBARIU...
+36
+TAYLCR CC UNTY, TEXAS
+BG
+DATE: 4-9-66
+217
+83
+ABST.P.
+HABITAT: ON ROCKY LEDGE
+COITWTS: on Harry Holt
+ranch 15 mi sw of abilene
+IMAGED
+CCITCN NAME: Cliffbreak fern
+20 NOV 2020
+SCIENTIPIC NAME Pellaea atropurpurea
+COLLICTOR: DON FOSTER
+Abilene Christian University
+FAMILY NUMBER:
+ACUO000010
+24ColorCard
+TM
+CameraTrax.com
+al

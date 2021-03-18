@@ -1,0 +1,40 @@
+3.
+6
+9.
+31
+21
+METRIC 1
+12
+11
+| 14
+13
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+5286
+Herbarium of
+No.
+ACU Botany Lab
+IMAGED
+Technical Name
+Andropogon gerardii
+20 NOV 2020
+Big Bluestem
+Poaceae / T. Andropogoneae
+Common Name
+Family
+Locality
+Knox City, Tx
+9/21/93
+Date
+Altitude
+Habitat
+Collected by
+Jason Peters
+Abilene Christian University
+Identified by
+McCourt Label, Bradford, Pa.
+ACUO000070
+24ColorCard
+TM
+CameraTrax.com

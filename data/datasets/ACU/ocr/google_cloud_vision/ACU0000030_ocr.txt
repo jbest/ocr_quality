@@ -1,0 +1,53 @@
+2
+3.
+13
+11
+6
+8
+9.
+14
+METRIC 1
+12
+2
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+O01820
+NO.
+కోనా
+Ji a shei
+Buchholz.
+WM. F. MAHLER
+Dee 1920
+Family:
+Pinaceae : (Pine Family)
+Puchotii
+Juniperus virginiana
+Genus-species:
+Common name:
+Date of collection:
+Rocky Mountain Juniper
+February 21, 1965
+State:
+Texas, Taylor County
+Central west Texas, off farm road 613, i mile
+north of Buffalo Gap
+Region:
+Habitat:
+Abundance:
+Smell:
+Color before pressing:
+Along dry stream
+Uncommon
+Fragrant pine smell
+IMAGED
+Blue berries, green needles
+20 NOV 2020
+Collector:
+Robert F. Patton
+Vines
+Reference:
+Abilene Christian University
+ACUO000030
+24ColorCard
+TM
+CameraTrax.com

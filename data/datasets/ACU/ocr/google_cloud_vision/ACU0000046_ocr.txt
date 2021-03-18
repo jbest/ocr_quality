@@ -1,0 +1,44 @@
+2
+3
+13
+12
+11
+6
+3.
+14
+METRIC 1
+8
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+001597
+NO.
+WM. F. MAHLER ! Dee 1920
+Family:
+Genus-species:
+Ephedraceae
+Ephedra antisyphilitica
+Common name : "Erect Ephedra"
+Date of collection:
+2-21-65
+State:
+Texas
+Central West Texas, Taylor Country, 1 mi. N. Buffalo Gap
+city limits, off highway along fence row
+Tence row along highway
+Region:
+IMAGED
+Habitat:
+Abundance:
+Common
+20 NOV 2020
+Smell: None
+Color before pressing:
+grey-green
+Soil: Cravel-rock soil
+Collector
+Bob Patton
+Abilene Christian University
+ACU00000 46
+24ColorCard
+TM
+CameraTrax.com

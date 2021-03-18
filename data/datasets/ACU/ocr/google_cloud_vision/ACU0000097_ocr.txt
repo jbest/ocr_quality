@@ -1,0 +1,43 @@
+2
+3.
+5
+12
+11
+6 |
+8
+9.
+31
+21
+METRIC 1
+14
+13
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+4832
+NO.
+IMAGED
+20 NOV 2020
+Doaceae
+(Andropoganeae
+GENUS & SPECIES_Andropogen vinginicus.
+H.277
+lomiles
+FAMILY
+Sorith
+Abilene
+EXACT LOCATION H J77
+SPECIMEN HEIGHT 30 (ncher
+COLOR__Gen
+gard
+COUNTY__|Cylor
+Clay Riley
+Broomsedge bluestem
+CONDITION
+STATE / exas
+DATE_G-25-84
+COLLECTOR
+Abilene Christian University
+ACU0000097
+24ColorCard
+TM
+CameraTrax.com

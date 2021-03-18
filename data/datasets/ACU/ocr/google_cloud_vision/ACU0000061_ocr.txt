@@ -1,0 +1,30 @@
+2
+3
+5
+13
+12
+6
+9.
+14
+METRIC 1
+11
+2
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+001598
+Scientific Namephed14 tufere
+|Common Name anted h
+Region Heshel-South
+IMAGED
+20 NOV 2020
+Locality
+Habitat.
+Date
+No.
+Collector
+Abilene Christian University
+ACU0000061
+24ColorCard
+TM
+CameraTrax.com

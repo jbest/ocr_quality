@@ -1,0 +1,38 @@
+5
+2
+3
+9.
+METRIC 1
+6 |
+2
+13
+12
+14
+11
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+003394
+Herbarium of
+No.
+IMAGED
+Ensephelieitus
+Ephedra
+Gphedra
+Family E ph édrucea e 8
+Locality Tarlor, County
+Altitude i800'
+Collected by he Foster
+Identified by Mike Foster
+Technical Name
+20 NOV 2020
+Common Name
+1470
+Date Jhn e 3
+Habitat Abilene Clay
+Loam
+Abilene Christian University
+ACU0000060
+24ColorCard
+TM
+CameraTrax.com

@@ -1,0 +1,35 @@
+2
+3
+12
+6 |
+9.
+14
+13
+11
+METRIC 1
+8
+2
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+003637
+NO.
+Herbarium of
+No.
+IMAGED
+Technical Name Typha latifolia
+20 NOV 2020
+Common Name Catlail
+Family Ty phacea 9
+Locality allen arm (TAylOR Co)
+Date uly b
+Habitat oil - clay
+1970
+TEXAS
+Altitude 180
+Collected by
+Abilene Christian University
+Identified by is Sneed
+ACU0000063
+24ColorCard
+TM
+CameraTrax.com

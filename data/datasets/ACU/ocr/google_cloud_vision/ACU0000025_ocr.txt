@@ -1,0 +1,45 @@
+2
+3.
+11
+6 |
+8
+14
+13
+2
+METRIC 1
+12
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+001479
+NO.
+4
+Pinaceae
+Family:
+Genus-species:
+Chamaecyparis thyoides
+Common name :
+1"White cedar"
+Date of collection:
+2-14-65
+State:
+Texas
+Region:
+Quitman, East Texas
+Habitat:
+deciduous forest
+IMAGED
+Abundance:
+common
+20 NOV 2020
+Smell: cedar
+Color befere pressing:
+green
+blackland prairie soil
+Soil:
+Collector Robert Patton
+Abilene Christian University
+ACUO000025
+24ColorCard
+TM
+CameraTrax.com
+5

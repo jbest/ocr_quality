@@ -1,0 +1,31 @@
+5
+2
+3
+31
+METRIC 1
+9.
+2
+13
+12
+11
+8
+14
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+001594
+NO.
+IMAGED
+Scientific Name Ephedra Aspera
+Common Name Chinese Tea
+Į Region/Mulberry Canfon
+( Habitat Pasture
+20 NOV 2020
+Locality
+! Date 6-20 -66
+No.
+Abilene Christian University
+Collector Scot H EDINGTON
+ACUO0000 59
+24ColorCard
+TM
+CameraTrax.com

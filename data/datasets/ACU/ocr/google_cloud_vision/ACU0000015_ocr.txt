@@ -1,0 +1,49 @@
+2
+3
+5
+11
+6 |
+8
+9 |
+3.
+21
+14
+13
+12
+METRIC 1
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+002229
+9.
+Family: Pinaceae
+Cenus -species:
+Pinus echinata
+Common name :
+"Chortleaf pine"
+Date of collection:
+1-27-65
+State:
+Texas
+Region: Abilene,
+A
+campus
+IMAGED
+on grounds
+Habitat:
+cultivated
+Abundance:
+rare
+20 NOV 2020
+Smell:
+pine
+Color before pressing: green
+Sotl:
+sandy
+Collector
+Barbara Bowles
+Abilene Christian University
+ACUO000015
+24ColorCard
+TM
+CameraTrax.com

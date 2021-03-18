@@ -1,0 +1,36 @@
+3.
+6 |
+9.
+3.
+21
+METRIC 1
+| 14
+12
+13
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+5285
+IMAGED
+20 NOV 2020
+Herbarium of
+No.
+ACU Botany Lab
+Technical Name Andropogon hallii
+Common Name Sand Bluestem
+Family
+Poaceae / T. Andropogoneae
+Locality
+Knox City, Tx
+Date 9/21/93
+Altitude
+Habitat
+Collected by
+Jason Peters
+Abilene Christian University
+Identified by
+ACUO000078
+McCourt Label, Bradford, Pa.
+24ColorCard
+TM
+CameraTrax.com

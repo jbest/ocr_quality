@@ -1,0 +1,36 @@
+2
+3.
+5
+6
+13
+11
+6 |
+8
+21
+12
+METRIC 1
+14
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+NO.
+003561
+Herbarium of
+No.
+IMAGED
+Technical Name Pinus Echinata
+Common Name Pich Pine (Sholt feaf)
+Family Pinaceae 7
+20 NOV 2020
+June 29,1970
+Habitat soil : clay
+Locality 2 blks No. of ACC Campus
+Date
+Altitude 1&0o'
+Collected by
+bis Sneed
+Abilene Christian University
+Identified by
+ACU0000014
+24ColorCard
+TM
+CameraTrax.com

@@ -1,0 +1,36 @@
+2
+3
+5
+14
+12
+11
+13
+METRIC 1
+3.
+2
+ABILENE CHRISTIAN UNIVERSITY
+HERBARIUM
+NO.
+5887
+Herbarium of
+No.
+IMAGED
+Taxodiumm distichum (a.) Phoh
+Technical Name
+family Taxudierepress
+Family Taxudiaceae
+Locality ACU Ca
+Common Name Bald
+20 NOV 2020
+mpus 4hdaie Jekas
+5/9/2
+Date
+Altitude 130 0 fet
+Collected by ()
+Habitat
+identified by
+Abilene Christian University
+ACU0000023
+24ColorCard
+TM
+CameraTrax.com

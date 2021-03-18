@@ -1,0 +1,49 @@
+2
+3
+5
+13
+11
+6 |
+8
+3.
+14
+METRIC 1
+12
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+001822
+NO.
+WM. F. MAHLER! Dee 1820
+Family:
+Genus-species:
+Pinaceae (Pine Family)
+Juniperus pinchotii
+Common name:
+Red-Berry Jüniper
+Date of collection:
+February 21, 1965
+State:
+Texas, Taylor County,
+Central west Texas, off farm road 613, 1 mile
+north of Buffalo Gap
+Rocky hillside
+Common
+Region:
+Habitat:
+Abundance:
+Smell:
+IMAGED
+20 NOV 2020
+Fragrant pine smell
+Soil: Rocky
+Color before pressing:
+Red berries, green needles
+Collector:
+Reference:
+Robert F. Patton
+Vines
+Abilene Christian University
+ACUO000037
+24ColorCard
+TM
+CameraTrax.com

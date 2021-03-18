@@ -1,0 +1,29 @@
+2
+3
+13
+12
+9.
+3.
+14
+METRIC 1
+11
+2
+8
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+G01591
+NO.
+ACC HErberium
+PATE S-14-666
+IMAGED
+LOCATION: ACe PArk
+20 NOV 2020
+Com mon NA ME: Chini ESE-TER
+SciENtiFic Name: EphedrA aspera
+Abilene Christian University
+COlLEcTor: STEVE DAUIS
+ACU0000058
+24ColorCard
+TM
+CameraTrax.com
+5

@@ -1,0 +1,39 @@
+3
+5
+14
+13
+12
+6 |
+11
+8
+2
+METRIC 1
+ABILENE CHRISTIAN COLLEGE
+HERBARIUM
+001592
+NO.
+ABILENE CHRISTIAN
+COLLEGE HERBARIUM
+36
+TAYLOR COUNTY, TEXAS
+33
+DA TE: 3-6-66
+IMAGED
+ASP
+HABITAT:
+277
+Hillside
+CO MMENTS : Found in
+ACC park at base of
+Mesquite Tree
+20 NOV 2020
+COMMON NAME: Ephedra
+SCIENTIFIC NAME Ephedra antisyphilicata
+Abilene Christian University
+COLLECTOR: Robert Read
+FAMILY NUMBER: Ephedraceae
+ACU0000056
+10
+24ColorCard
+TM
+Camera Trax.com
