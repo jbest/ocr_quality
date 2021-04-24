@@ -9,7 +9,7 @@ import pandas as pd
 import requests
 
 rootdir = Path('../data/dataset_expanded/') # path of directory containing unzipped data
-sample_size = 10
+sample_size = 1100
 random_state = 1 # used to keep random seed value constant to make reproducible samples from dataset
 
 
