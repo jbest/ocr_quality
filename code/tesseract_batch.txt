@@ -1,0 +1,2 @@
+# script for running tesseract ocr on all images
+for file in *.jpg; do tesseract "$file" "${file%.jpg}_ocr_tesseract.txt"; done;
